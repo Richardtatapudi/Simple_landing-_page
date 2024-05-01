@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image{
+    height: 90px;
+    width: 100px;
+}
+#nav-name1{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#nav-name2{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#nav-name3{
+    color: #323f4b;
+    font-family: "roboto";
+}
+#nav-name4{
+    color: #323f4b;
+    font-family: "roboto";
+}
+.banner-bg-contanier{
+    background-image: url("https://static.theprint.in/wp-content/uploads/2022/11/cn-brandma-1024x576.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-heading{
+    color:black;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: "roboto";
+    margin-top: 30px;
+}
+.banner-paragraph{
+    color:black;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "roboto";
+}
+.first-button{
+    background-color: rgb(235, 182, 69);
+    height: 45px;
+    width: 130px;
+    color:white;
+    border-width: 0px;
+    border-radius: 9px;
+    font-weight: 500;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+
+
+
+
